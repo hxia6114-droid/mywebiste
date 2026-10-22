@@ -6,13 +6,13 @@
 
 UNSW 大一机械工程 · 摄影 · 一个属于自己的桌面
 
-[在线访问](https://haibo-desktop.duskytulip14.chatgpt.site) · [本地运行](#本地运行) · [部署到-github-pages](#部署到-github-pages)
+[在线访问](https://hxia6114-droid.github.io/mywebiste/) · [本地运行](#本地运行) · [部署到-github-pages](#部署到-github-pages)
 
 </div>
 
 ![夏海博的个人桌面：玻璃手写欢迎字、旋转地球与复古 Dock](docs/preview.png)
 
-> 当前在线版本由 ChatGPT Sites 托管，可能需要使用站点所有者的 ChatGPT 账号登录。通过下方步骤部署到 GitHub Pages 后，可使用自己的 Pages 地址展示。
+> 在线主站已部署到 GitHub Pages，无需登录即可访问。仓库的 `main` 分支更新后，GitHub Actions 会自动重新发布网站。
 
 ## 关于这个主页
 
